@@ -1,0 +1,3 @@
+Hi,
+	I am Vinay
+	This is my first git program
